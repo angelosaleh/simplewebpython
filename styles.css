@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background: #E2DFDA url(images/paper.jpg) repeat center 0;
+    font-size: 20px;
+    font-family: 'GrundschriftRegular';
+}
+
+.divresultclass {
+    background: rgba(45, 51, 46, 0.11);
+    border-radius: 1em;
+    margin: 0.5em auto;
+    max-width: 570px;
+    padding: 2em;
+    width: max-content;
+}
